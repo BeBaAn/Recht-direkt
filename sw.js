@@ -1,7 +1,7 @@
 const CACHE_NAME = 'recht-direkt-v1';
 const ASSETS = [
-  './',
-  './RD_v32_pwa.html'
+  '/Recht-direkt/',
+  '/Recht-direkt/index.html'
 ];
 
 self.addEventListener('install', event => {
