@@ -2,7 +2,7 @@
   "name": "Recht – Direkt | Kostenfreie Rechtsinformationen",
   "short_name": "Recht – Direkt",
   "description": "Interaktive Entscheidungsbäume für Ihre rechtliche Situation – ohne Anwalt, ohne Kosten.",
-  "start_url": "./index.html",
+  "start_url": "/Recht-direkt/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1e3a8a",
