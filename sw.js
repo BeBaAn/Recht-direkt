@@ -1,7 +1,13 @@
-const CACHE_NAME = 'recht-direkt-v1';
+const CACHE_NAME = 'recht-direkt-v2';
 const ASSETS = [
   '/Recht-direkt/',
-  '/Recht-direkt/index.html'
+  '/Recht-direkt/index.html',
+  '/Recht-direkt/styles.css',
+  '/Recht-direkt/data/templates.js',
+  '/Recht-direkt/data/tree.js',
+  '/Recht-direkt/js/app.js',
+  '/Recht-direkt/js/logo.js',
+  '/Recht-direkt/manifest.json'
 ];
 
 self.addEventListener('install', event => {
